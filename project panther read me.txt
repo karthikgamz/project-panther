@@ -1,0 +1,2 @@
+please install requests to use weather and currency converter
+run it in visual studio or idle to make the code not crash
